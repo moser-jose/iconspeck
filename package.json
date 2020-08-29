@@ -1,0 +1,34 @@
+{
+  "name": "iconspeck",
+  "version": "1.0.0",
+  "jsdelivr": "css/iconspeck.min.css",
+  "description": "Iconspeck é um conjunto de mais de 500 icons (programadores e redes sociais) para os desenvolvedores utilizarem em seus projetos, sites profissionais, etc. 😅",
+  "homepage": "https://github.com/moser-jose/iconspeck#readme",
+  "author":{
+    "name": "Moser José",
+    "email": "moser.jose@outlook.com",
+    "web": "http://facebook.com/moser-j"
+  },
+  "keywords": [
+    "iconspeck",
+    "icons",
+    "font",
+    "svg",
+    "png"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moser-jose/iconspeck.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moser-jose/iconspeck/issues"
+  },
+  "licenses":{
+    "type": "MIT",
+    "url": "https://github.com/moser-jose/iconspeck/blob/master/LICENSE"
+  },
+  "engines" : {
+    "node" : ">=0.10.3"
+  }
+}
+
