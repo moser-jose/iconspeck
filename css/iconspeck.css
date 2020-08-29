@@ -370,17 +370,14 @@
 }
 .speck-composer .path1:before {
   content: "\e683";
-  color: ;
 }
 .speck-composer .path2:before {
   content: "\e689";
   margin-left: -0.8427734375em;
-  color: ;
 }
 .speck-composer .path3:before {
   content: "\e68a";
   margin-left: -0.8427734375em;
-  color: ;
 }
 .speck-composer .path4:before {
   content: "\e690";
@@ -1058,17 +1055,14 @@
 .speck-mitlicence .path2:before {
   content: "\e699";
   margin-left: -1em;
-  color: ;
 }
 .speck-mitlicence .path3:before {
   content: "\e69a";
   margin-left: -1em;
-  color: ;
 }
 .speck-mitlicence .path4:before {
   content: "\e69f";
   margin-left: -1em;
-  color: ;
 }
 .speck-mix:before {
   content: "\e9d1";
@@ -1099,27 +1093,22 @@
 }
 .speck-mozilla .path1:before {
   content: "\e686";
-  color: ;
 }
 .speck-mozilla .path2:before {
   content: "\e6ad";
   margin-left: -1em;
-  color: ;
 }
 .speck-mozilla .path3:before {
   content: "\e6ae";
   margin-left: -1em;
-  color: ;
 }
 .speck-mozilla .path4:before {
   content: "\e6af";
   margin-left: -1em;
-  color: ;
 }
 .speck-mozilla .path5:before {
   content: "\e6b0";
   margin-left: -1em;
-  color: ;
 }
 .speck-mozilla .path6:before {
   content: "\e6b1";
@@ -1129,12 +1118,10 @@
 .speck-mozilla .path7:before {
   content: "\e6b2";
   margin-left: -1em;
-  color: ;
 }
 .speck-mozilla .path8:before {
   content: "\e6b3";
   margin-left: -1em;
-  color: ;
 }
 .speck-msql-server:before {
   content: "\e67c";
