@@ -1,19 +1,20 @@
 /*!
- *  Iconspeck 1.0.0 feito por Moser José https://github.com/moser-jose/iconspeck 
+ *  Iconspeck 1.1.0 feito por Moser José https://github.com/moser-jose/iconspeck 
  */
-@font-face {
+ @font-face {
   font-family: 'iconspeck';
-  src:  url('../fonts/iconspeck.eot?mkbj95');
-  src:  url('../fonts/iconspeck.eot?mkbj95#iefix') format('embedded-opentype'),
-    url('../fonts/iconspeck.ttf?mkbj95') format('truetype'),
-    url('../fonts/iconspeck.woff?mkbj95') format('woff'),
-    url('../fonts/iconspeck.svg?mkbj95#iconspeck') format('svg');
+  src:  url('../fonts/iconspeck.eot?e9nydq');
+  src:  url('fonts/iconspeck.eot?e9nydq#iefix') format('embedded-opentype'),
+    url('../fonts/iconspeck.ttf?e9nydq') format('truetype'),
+    url('../fonts/iconspeck.woff?e9nydq') format('woff'),
+    url('../fonts/iconspeck.svg?e9nydq#iconspeck') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
 .iconspeck {
+  /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'iconspeck' !important;
   speak: never;
   font-style: normal;
@@ -22,6 +23,7 @@
   text-transform: none;
   line-height: 1;
 
+  /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -98,34 +100,11 @@
 .speck-flutter:before {
   content: "\e917";
 }
-.speck-latex .path1:before {
+.speck-latex:before {
   content: "\e918";
-  color: rgb(0, 0, 0);
 }
-.speck-latex .path2:before {
+.speck-latex-sp:before {
   content: "\e919";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.speck-latex .path3:before {
-  content: "\e91a";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.speck-latex .path4:before {
-  content: "\e91b";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.speck-latex .path5:before {
-  content: "\e91c";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.speck-latex .path6:before {
-  content: "\e91d";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .speck-phpstorm:before {
   content: "\e91e";
@@ -331,25 +310,6 @@
 .speck-code:before {
   content: "\e696";
 }
-.speck-code-badge .path1:before {
-  content: "\e6a3";
-  color: #000;
-}
-.speck-code-badge .path2:before {
-  content: "\e6a6";
-  margin-left: -1em;
-  color: #231F20;
-}
-.speck-code-badge .path3:before {
-  content: "\e6ab";
-  margin-left: -1em;
-  color: #231F20;
-}
-.speck-code-badge .path4:before {
-  content: "\e6ac";
-  margin-left: -1em;
-  color: #231F20;
-}
 .speck-codeigniter:before {
   content: "\e680";
 }
@@ -368,31 +328,8 @@
 .speck-compass:before {
   content: "\e661";
 }
-.speck-composer .path1:before {
+.speck-composer:before {
   content: "\e683";
-}
-.speck-composer .path2:before {
-  content: "\e689";
-  margin-left: -0.8427734375em;
-}
-.speck-composer .path3:before {
-  content: "\e68a";
-  margin-left: -0.8427734375em;
-}
-.speck-composer .path4:before {
-  content: "\e690";
-  margin-left: -0.8427734375em;
-  color: #2E2E2E;
-}
-.speck-composer .path5:before {
-  content: "\e694";
-  margin-left: -0.8427734375em;
-  color: #2E2E2E;
-}
-.speck-composer .path6:before {
-  content: "\e695";
-  margin-left: -0.8427734375em;
-  color: #2E2E2E;
 }
 .speck-confluence:before {
   content: "\e948";
@@ -1048,21 +985,8 @@
 .speck-microsoft:before {
   content: "\e9d0";
 }
-.speck-mitlicence .path1:before {
+.speck-mitlicence:before {
   content: "\e68b";
-  color: #211915;
-}
-.speck-mitlicence .path2:before {
-  content: "\e699";
-  margin-left: -1em;
-}
-.speck-mitlicence .path3:before {
-  content: "\e69a";
-  margin-left: -1em;
-}
-.speck-mitlicence .path4:before {
-  content: "\e69f";
-  margin-left: -1em;
 }
 .speck-mix:before {
   content: "\e9d1";
@@ -1091,37 +1015,8 @@
 .speck-mootools:before {
   content: "\e68f";
 }
-.speck-mozilla .path1:before {
+.speck-mozilla:before {
   content: "\e686";
-}
-.speck-mozilla .path2:before {
-  content: "\e6ad";
-  margin-left: -1em;
-}
-.speck-mozilla .path3:before {
-  content: "\e6ae";
-  margin-left: -1em;
-}
-.speck-mozilla .path4:before {
-  content: "\e6af";
-  margin-left: -1em;
-}
-.speck-mozilla .path5:before {
-  content: "\e6b0";
-  margin-left: -1em;
-}
-.speck-mozilla .path6:before {
-  content: "\e6b1";
-  margin-left: -1em;
-  color: #FFFFFF;
-}
-.speck-mozilla .path7:before {
-  content: "\e6b2";
-  margin-left: -1em;
-}
-.speck-mozilla .path8:before {
-  content: "\e6b3";
-  margin-left: -1em;
 }
 .speck-msql-server:before {
   content: "\e67c";
@@ -1357,39 +1252,8 @@
 .speck-resolving:before {
   content: "\ea09";
 }
-.speck-responsive .path1:before {
+.speck-responsive:before {
   content: "\e697";
-  color: #FFFFFF;
-}
-.speck-responsive .path2:before {
-  content: "\e6b4";
-  margin-left: -1em;
-  color: #000;
-}
-.speck-responsive .path3:before {
-  content: "\e6b5";
-  margin-left: -1em;
-  color: #000;
-}
-.speck-responsive .path4:before {
-  content: "\e6b6";
-  margin-left: -1em;
-  color: #000;
-}
-.speck-responsive .path5:before {
-  content: "\e6b7";
-  margin-left: -1em;
-  color: #000;
-}
-.speck-responsive .path6:before {
-  content: "\e6b8";
-  margin-left: -1em;
-  color: #000;
-}
-.speck-responsive .path7:before {
-  content: "\e6b9";
-  margin-left: -1em;
-  color: #FFFFFF;
 }
 .speck-rev:before {
   content: "\ea0a";
@@ -1860,5 +1724,8 @@
   content: "\ea6e";
 }
 .speck-zend:before {
+  content: "\e6ba";
+}
+.speck-jsdelivr:before {
   content: "\e678";
 }

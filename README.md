@@ -1,10 +1,12 @@
 # [Iconspeck](http://github.io/moser-jose/)
 
-`Iconspeck` é um conjunto de mais de 500 icons (programadores e redes sociais) para os desenvolvedores utilizarem em seus projetos, sites profissionais, etc. 😅 
+`Iconspeck` é um conjunto de mais de 500 ícones (programadores e redes sociais) para os desenvolvedores utilizarem em seus projetos, sites profissionais, etc. 😅
+
+![npm](https://img.shields.io/npm/v/iconspeck)
 
 ## Instalação e Configurações
 
-O `Iconspeck` pode ser utilizado apenas com uma linha de código, como pode se observar nesta tag 👉 `<link href='//cdn.jsdelivr.net/npm/iconspeack@1.8.0/css/iconspeck.min.css' rel='stylesheet'>`, pode ser instalado também utilizando o `NPM` e o `YARN`.
+O `Iconspeck` pode ser utilizado apenas com uma linha de código, como pode se observar nesta tag 👉 `<link href='//cdn.jsdelivr.net/npm/iconspeck@1.0.0/css/iconspeck.min.css' rel='stylesheet'>`, pode ser instalado também utilizando o `NPM` e o `YARN`.
 
 ### Instalação Usando o yarn
 
@@ -41,6 +43,11 @@ Você pode criar uma issue [aqui](https://github.com/moser-jose/iconspeck/issues
 * Crie pull requests pequenos, para que a revisão seja feita mais facilmente
 * Inclua detalhes do que está sendo feito na descrição
 * Altera a documentação se for necessário
+
+## Changelog
+
+* 1.1.0 Atualização do projeto e adicionado mais 3 novos ícones - ``latex``, ``latex-sp``, ``jsdelivr``. 💎
+* 1.0.1 Criação do projeto, adicionado mais de 500 ícones. ⌨️
 
 ## Licença
 
