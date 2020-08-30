@@ -50,6 +50,7 @@ Você pode criar uma issue [aqui](https://github.com/moser-jose/iconspeck/issues
 
 ## Changelog
 
+* 1.1.2 Atualização do iconspeck.css e .min.css. 🍏
 * 1.1.1 Atualização da licença do projeto no npm. 🧲
 * 1.1.0 Atualização do projeto e adicionado mais 3 novos ícones - ``latex``, ``latex-sp``, ``jsdelivr``. 💎
 * 1.0.1 Criação do projeto, adicionado mais de 500 ícones. ⌨️
