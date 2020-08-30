@@ -6,7 +6,7 @@
 
 ## Instalação e Configurações
 
-O `Iconspeck` pode ser utilizado apenas com uma linha de código, como pode se observar nesta tag 👉 `<link href='//cdn.jsdelivr.net/npm/iconspeck@1.0.0/css/iconspeck.min.css' rel='stylesheet'>`, pode ser instalado também utilizando o `NPM` e o `YARN`.
+O `Iconspeck` pode ser baixado 👉 [aqui](https://cdn.jsdelivr.net/npm/iconspeck@1.0.0/css/iconspeck.min.css) ou pode ser utilizado apenas com uma linha de código, Exemplo 👉 `<link href='//cdn.jsdelivr.net/npm/iconspeck@1.0.0/css/iconspeck.min.css' rel='stylesheet'>`, pode ser instalado também utilizando o `NPM` e o `YARN`.
 
 ### Instalação Usando o yarn
 
@@ -18,11 +18,15 @@ O `Iconspeck` pode ser utilizado apenas com uma linha de código, como pode se o
 
 ## Configurações
 
-1. Faça o `download` do repositório
-2. Copie o ficheiro ``iconspeck.css`` ou o ``iconspeck.min.css`` na pasta ``css`` para o seu projeto.
-3. Copie a pasta ``fonts`` para o seu projeto
-4. Certifique-se que o caminho da pasta ``fonts`` estão correta dentro do ficheiro ``iconspeck.css`` ou o ``iconspeck.min.css``
-5. Finalmente use a tag link para chamar o arquivo  ``iconspeck.css`` ou o ``iconspeck.min.css`` na sua página HTML
+1. Faça o `download` do repositório;
+2. Copie o ficheiro ``iconspeck.css`` ou o ``iconspeck.min.css`` na pasta ``css`` para o seu projeto;
+3. Copie a pasta ``fonts`` para o seu projeto;
+4. Certifique-se que o caminho da pasta ``fonts`` estão correta dentro do ficheiro ``iconspeck.css`` ou o ``iconspeck.min.css``;
+5. Use a tag link para chamar o arquivo  ``iconspeck.css`` ou o ``iconspeck.min.css`` na sua página HTML;
+6. Use as classes da seguinte maneira  ``<i class="iconspeck speck-yarn"></i>`` ou ``<span class="iconspeck speck-webpack"></span>``
+
+Lembre-se sempre ``class="iconspeck speck-nome-do-ícone"``
+
 
 ## Como contribuir
 
@@ -46,7 +50,7 @@ Você pode criar uma issue [aqui](https://github.com/moser-jose/iconspeck/issues
 
 ## Changelog
 
-* 1.1.1 Atualização da licença do projeto. 🧲
+* 1.1.1 Atualização da licença do projeto no npm. 🧲
 * 1.1.0 Atualização do projeto e adicionado mais 3 novos ícones - ``latex``, ``latex-sp``, ``jsdelivr``. 💎
 * 1.0.1 Criação do projeto, adicionado mais de 500 ícones. ⌨️
 

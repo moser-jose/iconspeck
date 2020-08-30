@@ -4,7 +4,7 @@
  @font-face {
   font-family: 'iconspeck';
   src:  url('../fonts/iconspeck.eot?e9nydq');
-  src:  url('fonts/iconspeck.eot?e9nydq#iefix') format('embedded-opentype'),
+  src:  url('../fonts/iconspeck.eot?e9nydq#iefix') format('embedded-opentype'),
     url('../fonts/iconspeck.ttf?e9nydq') format('truetype'),
     url('../fonts/iconspeck.woff?e9nydq') format('woff'),
     url('../fonts/iconspeck.svg?e9nydq#iconspeck') format('svg');
