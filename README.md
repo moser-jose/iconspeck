@@ -6,7 +6,7 @@
 
 ## Instalação e Configurações
 
-O `Iconspeck` pode ser baixado 👉 [aqui](https://cdn.jsdelivr.net/npm/iconspeck@1.0.0/css/iconspeck.min.css) ou pode ser utilizado apenas com uma linha de código, Exemplo 👉 `<link href='//cdn.jsdelivr.net/npm/iconspeck@1.0.0/css/iconspeck.min.css' rel='stylesheet'>`, pode ser instalado também utilizando o `NPM` e o `YARN`.
+O `Iconspeck` pode ser encontrado 👉 [aqui](https://cdn.jsdelivr.net/npm/iconspeck@1.1.3/css/iconspeck.min.css) ou [aqui](https://unpkg.com/browse/iconspeck@1.1.3/css/iconspeck.min.css). Pode ser utilizado apenas com uma linha de código, Exemplo 👉 `<link href='//cdn.jsdelivr.net/npm/iconspeck@1.1.3/css/iconspeck.min.css' rel='stylesheet'>`, ou `<link href='https://unpkg.com/browse/iconspeck@1.1.3/css/iconspeck.min.css' rel='stylesheet'>` pode ser instalado também utilizando o `NPM` e o `YARN`.
 
 ### Instalação Usando o yarn
 
