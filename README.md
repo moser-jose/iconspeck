@@ -50,6 +50,7 @@ Você pode criar uma issue [aqui](https://github.com/moser-jose/iconspeck/issues
 
 ## Changelog
 
+* 1.1.4 Atualização do projeto e adicionado mais 5 novos ícones - ``eslint``, ``prettier``, ``visualg``,``portugol``,``django-alt``. 💎
 * 1.1.2 Atualização do iconspeck.css e .min.css. 🍏
 * 1.1.1 Atualização da licença do projeto no npm. 🧲
 * 1.1.0 Atualização do projeto e adicionado mais 3 novos ícones - ``latex``, ``latex-sp``, ``jsdelivr``. 💎

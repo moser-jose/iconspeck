@@ -1,13 +1,13 @@
 /*!
- *  Iconspeck 1.1.0 feito por Moser José https://github.com/moser-jose/iconspeck 
+ *  Iconspeck 1.1.4 feito por Moser José https://github.com/moser-jose/iconspeck 
  */
  @font-face {
   font-family: 'iconspeck';
-  src:  url('../fonts/iconspeck.eot?e9nydq');
-  src:  url('../fonts/iconspeck.eot?e9nydq#iefix') format('embedded-opentype'),
-    url('../fonts/iconspeck.ttf?e9nydq') format('truetype'),
-    url('../fonts/iconspeck.woff?e9nydq') format('woff'),
-    url('../fonts/iconspeck.svg?e9nydq#iconspeck') format('svg');
+  src:  url('../fonts/iconspeck.eot?ub8n5c');
+  src:  url('../fonts/iconspeck.eot?ub8n5c#iefix') format('embedded-opentype'),
+    url('../fonts/iconspeck.ttf?ub8n5c') format('truetype'),
+    url('../fonts/iconspeck.woff?ub8n5c') format('woff'),
+    url('../fonts/iconspeck.svg?ub8n5c#iconspeck') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1728,4 +1728,19 @@
 }
 .speck-jsdelivr:before {
   content: "\e678";
+}
+.speck-portugol:before {
+  content: "\e689";
+}
+.speck-django-alt:before {
+  content: "\e68a";
+}
+.speck-eslint:before {
+  content: "\e690";
+}
+.speck-prettier:before {
+  content: "\e694";
+}
+.speck-visualg:before {
+  content: "\e695";
 }
