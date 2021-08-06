@@ -1,13 +1,14 @@
 /*!
- *  Iconspeck 1.1.4 feito por Moser José https://github.com/moser-jose/iconspeck 
+ *  Iconspeck 1.1.5 feito por Moser José https://github.com/moser-jose/iconspeck 
  */
+
  @font-face {
   font-family: 'iconspeck';
-  src:  url('../fonts/iconspeck.eot?ub8n5c');
-  src:  url('../fonts/iconspeck.eot?ub8n5c#iefix') format('embedded-opentype'),
-    url('../fonts/iconspeck.ttf?ub8n5c') format('truetype'),
-    url('../fonts/iconspeck.woff?ub8n5c') format('woff'),
-    url('../fonts/iconspeck.svg?ub8n5c#iconspeck') format('svg');
+  src:  url('../fonts/iconspeck.eot?n9q3s0');
+  src:  url('../fonts/iconspeck.eot?n9q3s0#iefix') format('embedded-opentype'),
+    url('../fonts/iconspeck.ttf?n9q3s0') format('truetype'),
+    url('../fonts/iconspeck.woff?n9q3s0') format('woff'),
+    url('../fonts/iconspeck.svg?n9q3s0#iconspeck') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1743,4 +1744,16 @@
 }
 .speck-visualg:before {
   content: "\e695";
+}
+.speck-firebase-sp:before {
+  content: "\e699";
+}
+.speck-express-sp:before {
+  content: "\e69a";
+}
+.speck-graphql:before {
+  content: "\e69f";
+}
+.speck-spring:before {
+  content: "\e6a3";
 }

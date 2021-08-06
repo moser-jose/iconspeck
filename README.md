@@ -6,11 +6,11 @@
 
 ## Instalação e Configurações
 
-O `Iconspeck` pode ser encontrado 👉 [aqui](https://cdn.jsdelivr.net/npm/iconspeck@1.1.4/css/iconspeck.min.css) ou [aqui](https://unpkg.com/browse/iconspeck@1.1.4/css/iconspeck.min.css). Pode ser utilizado apenas com uma linha de código, Exemplo 👉 `<link href='//cdn.jsdelivr.net/npm/iconspeck@1.1.4/css/iconspeck.min.css' rel='stylesheet'>`, ou `<link href='https://unpkg.com/browse/iconspeck@1.1.4/css/iconspeck.min.css' rel='stylesheet'>` pode ser instalado também utilizando o `NPM` e o `YARN`.
+O `Iconspeck` pode ser encontrado 👉 [aqui](https://cdn.jsdelivr.net/npm/iconspeck@1.1.5/css/iconspeck.min.css) ou [aqui](https://unpkg.com/browse/iconspeck@1.1.5/css/iconspeck.min.css). Pode ser utilizado apenas com uma linha de código, Exemplo 👉 `<link href='//cdn.jsdelivr.net/npm/iconspeck@1.1.5/css/iconspeck.min.css' rel='stylesheet'>`, ou `<link href='https://unpkg.com/browse/iconspeck@1.1.5/css/iconspeck.min.css' rel='stylesheet'>` pode ser instalado também utilizando o `NPM` e o `YARN`.
 
 ### Instalação Usando o yarn
 
-`yarn install iconspeck`
+`yarn add iconspeck`
 
 ### Instalação Usando o NPM
 
@@ -32,7 +32,7 @@ Lembre-se sempre ``class="iconspeck speck-nome-do-ícone"``
 
 Para fazer um pull-request, primeiramente crie um fork do projeto para a sua conta, então clone o projeto em sua maquina:
 
-`git clone git@github.com:seu-usuario/iconspeck.git`
+`git clone https://github.com/moser-jose/iconspeck.git`
 
 Agora pronto, você já pode começar a contribuir com o projeto!
 
@@ -50,6 +50,7 @@ Você pode criar uma issue [aqui](https://github.com/moser-jose/iconspeck/issues
 
 ## Changelog
 
+* 1.1.5 Atualização do projeto e adicionado mais 5 novos ícones - ``express-sp``, ``firebase-sp``, ``graphql``,``spring``. 💎
 * 1.1.4 Atualização do projeto e adicionado mais 5 novos ícones - ``eslint``, ``prettier``, ``visualg``,``portugol``,``django-alt``. 💎
 * 1.1.2 Atualização do iconspeck.css e .min.css. 🍏
 * 1.1.1 Atualização da licença do projeto no npm. 🧲
