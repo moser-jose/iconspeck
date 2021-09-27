@@ -1,12 +1,12 @@
 # [Iconspeck](http://github.io/moser-jose/)
 
-`Iconspeck` é um conjunto de mais de 500 ícones (programadores e redes sociais) para os desenvolvedores utilizarem em seus projetos, sites profissionais, etc. 😅
+`Iconspeck` é um conjunto de mais de 600 ícones (programadores e redes sociais) para os desenvolvedores utilizarem em seus projetos, sites profissionais, etc. 😅
 
 ![npm](https://img.shields.io/npm/v/iconspeck)
 
 ## Instalação e Configurações
 
-O `Iconspeck` pode ser encontrado 👉 [aqui](https://cdn.jsdelivr.net/npm/iconspeck@1.1.5/css/iconspeck.min.css) ou [aqui](https://unpkg.com/browse/iconspeck@1.1.5/css/iconspeck.min.css). Pode ser utilizado apenas com uma linha de código, Exemplo 👉 `<link href='//cdn.jsdelivr.net/npm/iconspeck@1.1.5/css/iconspeck.min.css' rel='stylesheet'>`, ou `<link href='https://unpkg.com/browse/iconspeck@1.1.5/css/iconspeck.min.css' rel='stylesheet'>` pode ser instalado também utilizando o `NPM` e o `YARN`.
+O `Iconspeck` pode ser encontrado 👉 [aqui](https://cdn.jsdelivr.net/npm/iconspeck@1.1.6/css/iconspeck.min.css) ou [aqui](https://unpkg.com/browse/iconspeck@1.1.6/css/iconspeck.min.css). Pode ser utilizado apenas com uma linha de código, Exemplo 👉 `<link href='//cdn.jsdelivr.net/npm/iconspeck@1.1.6/css/iconspeck.min.css' rel='stylesheet'>`, ou `<link href='https://unpkg.com/browse/iconspeck@1.1.6/css/iconspeck.min.css' rel='stylesheet'>` pode ser instalado também utilizando o `NPM` e o `YARN`.
 
 ### Instalação Usando o yarn
 
