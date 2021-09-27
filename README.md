@@ -36,8 +36,7 @@ Para fazer um pull-request, primeiramente crie um fork do projeto para a sua con
 
 Agora pronto, você já pode começar a contribuir com o projeto!
 
-Use o [IcoMoon](https://icomoon.io/app) para adicionar outros icons referentes a ferramentas de programação ou redes sociais que não estejam no projeto.
-
+Importa o ficheiro [selection.js](/selection.json) no [IcoMoon](https://icomoon.io/app) para adicionar outros icons referentes a ferramentas de programação ou redes sociais que não estejam no projeto.
 ### Reportando Issues
 
 Você pode criar uma issue [aqui](https://github.com/moser-jose/iconspeck/issues), mas, lembre-se de ser claro e informar o máximo de detalhes possíveis.

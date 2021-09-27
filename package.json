@@ -1,8 +1,8 @@
 {
   "name": "iconspeck",
-  "version": "1.1.6",
+  "version": "1.0.6",
   "jsdelivr": "css/iconspeck.min.css",
-  "description": "Iconspeck é um conjunto de mais de 500 icones (programadores e redes socias) para os desenvolvedores utilizarem em seus projetos, sites profissionais, etc. 😅",
+  "description": "Iconspeck é um conjunto de mais de 600 icones (programadores e redes socias) para os desenvolvedores utilizarem em seus projetos, sites profissionais, etc. 😅",
   "homepage": "https://github.com/moser-jose/iconspeck#readme",
   "author":{
     "name": "Moser José",
