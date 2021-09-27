@@ -1,14 +1,14 @@
 /*!
- *  Iconspeck 1.1.5 feito por Moser José https://github.com/moser-jose/iconspeck 
+ *  Iconspeck 1.1.6 feito por Moser José https://github.com/moser-jose/iconspeck 
  */
 
  @font-face {
   font-family: 'iconspeck';
-  src:  url('../fonts/iconspeck.eot?n9q3s0');
-  src:  url('../fonts/iconspeck.eot?n9q3s0#iefix') format('embedded-opentype'),
-    url('../fonts/iconspeck.ttf?n9q3s0') format('truetype'),
-    url('../fonts/iconspeck.woff?n9q3s0') format('woff'),
-    url('../fonts/iconspeck.svg?n9q3s0#iconspeck') format('svg');
+  src:  url('../fonts/iconspeck.eot?nbacaj');
+  src:  url('../fonts/iconspeck.eot?nbacaj#iefix') format('embedded-opentype'),
+    url('../fonts/iconspeck.ttf?nbacaj') format('truetype'),
+    url('../fonts/iconspeck.woff?nbacaj') format('woff'),
+    url('../fonts/iconspeck.svg?nbacaj#iconspeck') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -30,6 +30,9 @@
 }
 
 .speck-babel:before {
+  content: "\e699";
+}
+.speck-babel-sp:before {
   content: "\e900";
 }
 .speck-c:before {
@@ -62,8 +65,8 @@
 .speck-intellij:before {
   content: "\e90a";
 }
-.speck-jquery-sp:before {
-  content: "\e90b";
+.speck-intellij-sp:before {
+  content: "\e91c";
 }
 .speck-kotlin:before {
   content: "\e90c";
@@ -71,11 +74,17 @@
 .speck-mocha:before {
   content: "\e90d";
 }
-.speck-pycharm:before {
+.speck-mocha-sp:before {
+  content: "\e90b";
+}
+.speck-oracle:before {
   content: "\e90e";
 }
-.speck-pycharm1:before {
+.speck-pycharm:before {
   content: "\e90f";
+}
+.speck-pycharm-sp:before {
+  content: "\e91b";
 }
 .speck-raspberry-pi:before {
   content: "\e910";
@@ -97,6 +106,9 @@
 }
 .speck-webstorm:before {
   content: "\e916";
+}
+.speck-webstorm-sp:before {
+  content: "\e91d";
 }
 .speck-flutter:before {
   content: "\e917";
@@ -305,6 +317,9 @@
 .speck-cloudversify:before {
   content: "\e946";
 }
+.speck-ember:before {
+  content: "\e96a";
+}
 .speck-coda:before {
   content: "\e693";
 }
@@ -367,9 +382,6 @@
 }
 .speck-d-and-d:before {
   content: "\e94f";
-}
-.speck-d-and-d-beyond:before {
-  content: "\e950";
 }
 .speck-dailymotion:before {
   content: "\e951";
@@ -440,9 +452,6 @@
 .speck-draft2digital:before {
   content: "\e960";
 }
-.speck-dreamweaver:before {
-  content: "\e69c";
-}
 .speck-dribbble:before {
   content: "\eaa7";
 }
@@ -470,7 +479,7 @@
 .speck-edge:before {
   content: "\eadc";
 }
-.speck-edge1:before {
+.speck-edge-sp:before {
   content: "\e967";
 }
 .speck-elementor:before {
@@ -484,9 +493,6 @@
 }
 .speck-embed-sp:before {
   content: "\ea80";
-}
-.speck-ember:before {
-  content: "\e96a";
 }
 .speck-empire:before {
   content: "\e96b";
@@ -518,14 +524,14 @@
 .speck-facebook:before {
   content: "\ea90";
 }
-.speck-facebook-sp:before {
+.speck-facebook-circle:before {
   content: "\e972";
+}
+.speck-facebook-sp:before {
+  content: "\e974";
 }
 .speck-messenger:before {
   content: "\e973";
-}
-.speck-facebook-p:before {
-  content: "\e974";
 }
 .speck-fantasy-flight-games:before {
   content: "\e975";
@@ -542,7 +548,7 @@
 .speck-finder:before {
   content: "\eabf";
 }
-.speck-firebase:before {
+.speck-firebase-sp:before {
   content: "\e687";
 }
 .speck-firefox:before {
@@ -551,7 +557,7 @@
 .speck-first-order:before {
   content: "\e979";
 }
-.speck-first-order-alt:before {
+.speck-first-order-sp:before {
   content: "\e97a";
 }
 .speck-firstdraft:before {
@@ -779,10 +785,10 @@
 .speck-houzz:before {
   content: "\e9a7";
 }
-.speck-html-five:before {
+.speck-html:before {
   content: "\eae4";
 }
-.speck-html-five-sp:before {
+.speck-html-sp:before {
   content: "\eae5";
 }
 .speck-html5-3d-effects:before {
@@ -836,10 +842,10 @@
 .speck-java:before {
   content: "\e638";
 }
-.speck-javascript:before {
+.speck-javascript-sp:before {
   content: "\e64e";
 }
-.speck-javascript-sp:before {
+.speck-javascript:before {
   content: "\e681";
 }
 .speck-jedi-order:before {
@@ -854,8 +860,11 @@
 .speck-jira-sp:before {
   content: "\e65c";
 }
-.speck-jira:before {
+.speck-jira-software:before {
   content: "\e9b2";
+}
+.speck-jira:before {
+  content: "\e91a";
 }
 .speck-joget:before {
   content: "\e9b3";
@@ -1040,16 +1049,16 @@
 .speck-netmagazine:before {
   content: "\e62e";
 }
-.speck-nginx:before {
+.speck-nginx-sp:before {
   content: "\e676";
 }
 .speck-nimblr:before {
   content: "\e9d9";
 }
-.speck-node-js:before {
+.speck-nodejs:before {
   content: "\e9da";
 }
-.speck-nodejs:before {
+.speck-node-sp:before {
   content: "\e619";
 }
 .speck-npm-sp:before {
@@ -1072,9 +1081,6 @@
 }
 .speck-old-republic:before {
   content: "\e9e0";
-}
-.speck-onedrive1:before {
-  content: "\e662";
 }
 .speck-onedrive:before {
   content: "\eaaf";
@@ -1133,10 +1139,13 @@
 .speck-phonegap:before {
   content: "\e630";
 }
-.speck-php:before {
+.speck-php-sp:before {
   content: "\e63d";
 }
-.speck-php-sp:before {
+.speck-php:before {
+  content: "\e69a";
+}
+.speck-php-circle:before {
   content: "\e9ee";
 }
 .speck-pied-piper:before {
@@ -1150,9 +1159,6 @@
 }
 .speck-pied-piper-pp:before {
   content: "\e9f2";
-}
-.speck-pied-piper-sp1:before {
-  content: "\e9f3";
 }
 .speck-pinterest-circle:before {
   content: "\ead1";
@@ -1171,6 +1177,9 @@
 }
 .speck-postgresql:before {
   content: "\e66e";
+}
+.speck-postgresql-sp:before {
+  content: "\e675";
 }
 .speck-product-hunt:before {
   content: "\e9f7";
@@ -1208,9 +1217,6 @@
 .speck-react:before {
   content: "\e9fe";
 }
-.speck-reacteurope:before {
-  content: "\e9ff";
-}
 .speck-readme:before {
   content: "\ea00";
 }
@@ -1229,7 +1235,7 @@
 .speck-reddit-alien:before {
   content: "\ea04";
 }
-.speck-reddit-sp:before {
+.speck-reddit-alien-sp:before {
   content: "\ea05";
 }
 .speck-redhat:before {
@@ -1271,13 +1277,10 @@
 .speck-rss-sp:before {
   content: "\ea9c";
 }
-.speck-ruby:before {
-  content: "\e639";
-}
 .speck-ruby-on-rails:before {
   content: "\e63b";
 }
-.speck-ruby-rough:before {
+.speck-ruby:before {
   content: "\e691";
 }
 .speck-rust:before {
@@ -1291,6 +1294,9 @@
 }
 .speck-sass:before {
   content: "\e64b";
+}
+.speck-sass-sp:before {
+  content: "\e64f";
 }
 .speck-scala:before {
   content: "\e637";
@@ -1646,9 +1652,6 @@
 .speck-wikipedia-w:before {
   content: "\ea5d";
 }
-.speck-windows:before {
-  content: "\eac1";
-}
 .speck-windows8:before {
   content: "\eac2";
 }
@@ -1733,7 +1736,7 @@
 .speck-portugol:before {
   content: "\e689";
 }
-.speck-django-alt:before {
+.speck-django-sp:before {
   content: "\e68a";
 }
 .speck-eslint:before {
@@ -1745,15 +1748,132 @@
 .speck-visualg:before {
   content: "\e695";
 }
-.speck-firebase-sp:before {
-  content: "\e699";
+.speck-firebase:before {
+  content: "\e69c";
 }
 .speck-express-sp:before {
-  content: "\e69a";
-}
-.speck-graphql:before {
   content: "\e69f";
 }
-.speck-spring:before {
+.speck-graphql:before {
   content: "\e6a3";
+}
+.speck-spring:before {
+  content: "\e6a6";
+}
+.speck-adobe-xd-sp:before {
+  content: "\e6ab";
+}
+.speck-apache:before {
+  content: "\e6ac";
+}
+.speck-cmake:before {
+  content: "\e6ad";
+}
+.speck-filezila:before {
+  content: "\e6ae";
+}
+.speck-adobe-audition:before {
+  content: "\e6af";
+}
+.speck-adobe-creative-cloud:before {
+  content: "\e6b0";
+}
+.speck-adobe-photoshop:before {
+  content: "\e6b1";
+}
+.speck-adobe-illustrator:before {
+  content: "\e6b2";
+}
+.speck-adonisjs:before {
+  content: "\e6b4";
+}
+.speck-android-auto:before {
+  content: "\e6b5";
+}
+.speck-android-studio:before {
+  content: "\e6b6";
+}
+.speck-jetbrains:before {
+  content: "\e6b7";
+}
+.speck-lua:before {
+  content: "\e6b8";
+}
+.speck-godot-engine:before {
+  content: "\e6b9";
+}
+.speck-go-sp:before {
+  content: "\e6bb";
+}
+.speck-mariadb-foundation:before {
+  content: "\e6bc";
+}
+.speck-jest:before {
+  content: "\e6bd";
+}
+.speck-nativescript:before {
+  content: "\e6be";
+}
+.speck-nuxtjs:before {
+  content: "\e6bf";
+}
+.speck-nextjs:before {
+  content: "\e6c0";
+}
+.speck-nuget:before {
+  content: "\e6c1";
+}
+.speck-nginx:before {
+  content: "\e6c2";
+}
+.speck-openstack:before {
+  content: "\e6c3";
+}
+.speck-overleaf:before {
+  content: "\e6c4";
+}
+.speck-netlify:before {
+  content: "\e6c5";
+}
+.speck-xcode:before {
+  content: "\e6b3";
+}
+.speck-deno:before {
+  content: "\e6c6";
+}
+.speck-huawei:before {
+  content: "\e6c7";
+}
+.speck-kodi:before {
+  content: "\e6c8";
+}
+.speck-leaflet:before {
+  content: "\e6c9";
+}
+.speck-intel:before {
+  content: "\e6ca";
+}
+.speck-hp:before {
+  content: "\e6cb";
+}
+.speck-lenovo:before {
+  content: "\e6cc";
+}
+.speck-signal:before {
+  content: "\e6cd";
+}
+.speck-canva:before {
+  content: "\e6ce";
+}
+.speck-dell:before {
+  content: "\e6cf";
+}
+.speck-vercel:before {
+  content: "\e6d0";
+}
+.speck-vim:before {
+  content: "\e6d1";
+}
+.speck-buy-me-a-coffee:before {
+  content: "\e6d2";
 }
