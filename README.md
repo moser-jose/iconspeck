@@ -1,12 +1,12 @@
 # [Iconspeck](http://github.io/moser-jose/)
 
-`Iconspeck` é um conjunto de mais de 600 ícones (programadores e redes sociais) para os desenvolvedores utilizarem em seus projetos, sites profissionais, etc. 😅
+`Iconspeck` é um conjunto de mais de 600 ícones (empresas de tecnologias, programação e redes sociais) para os programadores e não só utilizarem em seus projectos, sites profissionais, etc. 😅
 
-![npm](https://img.shields.io/npm/v/iconspeck)
+![npm](https://img.shields.io/npm/v/iconspeck) ![npm](https://img.shields.io/npm/l/iconspeck) ![GitHub last commit](https://img.shields.io/github/last-commit/moser-jose/iconspeck) ![npm collaborators](https://img.shields.io/npm/collaborators/iconspeck) ![author](https://img.shields.io/badge/Author-Moser%20Jos%C3%A9-blueviolet)
 
 ## Instalação e Configurações
 
-O `Iconspeck` pode ser encontrado 👉 [aqui](https://cdn.jsdelivr.net/npm/iconspeck@1.1.6/css/iconspeck.min.css) ou [aqui](https://unpkg.com/browse/iconspeck@1.1.6/css/iconspeck.min.css). Pode ser utilizado apenas com uma linha de código, Exemplo 👉 `<link href='//cdn.jsdelivr.net/npm/iconspeck@1.1.6/css/iconspeck.min.css' rel='stylesheet'>`, ou `<link href='https://unpkg.com/browse/iconspeck@1.1.6/css/iconspeck.min.css' rel='stylesheet'>` pode ser instalado também utilizando o `NPM` e o `YARN`.
+O `Iconspeck` pode ser encontrado 👉 [aqui](https://cdn.jsdelivr.net/npm/iconspeck@1.1.6/css/iconspeck.min.css) ou [aqui](https://unpkg.com/iconspeck@1.1.6/css/iconspeck.min.css). Pode ser utilizado apenas com uma linha de código, Exemplo 👉 `<link href='//cdn.jsdelivr.net/npm/iconspeck@1.1.6/css/iconspeck.min.css' rel='stylesheet'>`, ou `<link href='https://unpkg.com/iconspeck@1.1.6/css/iconspeck.min.css' rel='stylesheet'>` pode ser instalado também utilizando o `NPM` e o `YARN`.
 
 ### Instalação Usando o yarn
 
@@ -22,21 +22,21 @@ O `Iconspeck` pode ser encontrado 👉 [aqui](https://cdn.jsdelivr.net/npm/icons
 2. Copie o ficheiro ``iconspeck.css`` ou o ``iconspeck.min.css`` na pasta ``css`` para o seu projeto;
 3. Copie a pasta ``fonts`` para o seu projeto;
 4. Certifique-se que o caminho da pasta ``fonts`` estão correta dentro do ficheiro ``iconspeck.css`` ou o ``iconspeck.min.css``;
-5. Use a tag link para chamar o arquivo  ``iconspeck.css`` ou o ``iconspeck.min.css`` na sua página HTML;
+5. Use a tag link para chamar o arquivo  ``iconspeck.css`` ou ``iconspeck.min.css`` na sua página HTML;
 6. Use as classes da seguinte maneira  ``<i class="iconspeck speck-yarn"></i>`` ou ``<span class="iconspeck speck-webpack"></span>``
 
 Lembre-se sempre ``class="iconspeck speck-nome-do-ícone"``
 
-
 ## Como contribuir
 
-Para fazer um pull-request, primeiramente crie um fork do projeto para a sua conta, então clone o projeto em sua maquina:
+Para fazer um pull-request, primeiramente crie um fork do projecto para a sua conta, então clone o projecto em sua maquina:
 
 `git clone https://github.com/moser-jose/iconspeck.git`
 
 Agora pronto, você já pode começar a contribuir com o projeto!
 
 Importa o ficheiro [selection.js](/selection.json) no [IcoMoon](https://icomoon.io/app) para adicionar outros icons referentes a ferramentas de programação ou redes sociais que não estejam no projeto.
+
 ### Reportando Issues
 
 Você pode criar uma issue [aqui](https://github.com/moser-jose/iconspeck/issues), mas, lembre-se de ser claro e informar o máximo de detalhes possíveis.
