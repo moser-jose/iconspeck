@@ -31750,12 +31750,14 @@
       "prefix": "speck-",
       "metadata": {
         "fontFamily": "iconspeck",
+        "versionIcons":"1.1.6",
         "majorVersion": 1,
         "minorVersion": 3,
-        "description": "Conjunto de mais de 500 icons (programadores e redes sociais) para os desenvolvedores utilizarem em seus projetos, sites profissionais, etc.",
+        "description": "é um conjunto de mais de 600 ícones (empresas de tecnologia, ferramentas de programação e redes sociais) para os programadores utilizarem em seus projectos, sites profissionais, etc.",
         "copyright": "iconspeck@2021",
         "designer": "Moser José",
         "licenseURL": "http://opensource.org/licenses/MIT",
+        "npmUrl":"https://www.npmjs.com/package/iconspeck",
         "license": "MIT Licence",
         "designerURL": "https://github.com/moser-jose",
         "fontURL": "https://github.com/moser-jose/iconspeck"
