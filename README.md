@@ -6,7 +6,7 @@
 
 ## Instalação e Configurações
 
-O `Iconspeck` pode ser encontrado 👉 [aqui](https://cdn.jsdelivr.net/npm/iconspeck@1.1.6/css/iconspeck.min.css) ou [aqui](https://unpkg.com/iconspeck@1.1.6/css/iconspeck.min.css). Pode ser utilizado apenas com uma linha de código, Exemplo 👉 `<link href='//cdn.jsdelivr.net/npm/iconspeck@1.1.6/css/iconspeck.min.css' rel='stylesheet'>`, ou `<link href='https://unpkg.com/iconspeck@1.1.6/css/iconspeck.min.css' rel='stylesheet'>` pode ser instalado também utilizando o `NPM` e o `YARN`.
+O `Iconspeck` pode ser encontrado 👉 [aqui](https://cdn.jsdelivr.net/npm/iconspeck@1.1.7/css/iconspeck.min.css) ou [aqui](https://unpkg.com/iconspeck@1.1.7/css/iconspeck.min.css). Pode ser utilizado apenas com uma linha de código, Exemplo 👉 `<link href='//cdn.jsdelivr.net/npm/iconspeck@1.1.7/css/iconspeck.min.css' rel='stylesheet'>`, ou `<link href='https://unpkg.com/iconspeck@1.1.7/css/iconspeck.min.css' rel='stylesheet'>` pode ser instalado também utilizando o `NPM` e o `YARN`.
 
 ### Instalação Usando o yarn
 
@@ -49,6 +49,7 @@ Você pode criar uma issue [aqui](https://github.com/moser-jose/iconspeck/issues
 
 ## Changelog
 
+* 1.1.7 Adicionado mais de 45 novos ícones. 💎
 * 1.1.6 Adicionado mais 39 novos ícones. 💎
 * 1.1.5 Atualização do projeto e adicionado mais 5 novos ícones - ``express-sp``, ``firebase-sp``, ``graphql``,``spring``. 💎
 * 1.1.4 Atualização do projeto e adicionado mais 5 novos ícones - ``eslint``, ``prettier``, ``visualg``,``portugol``,``django-alt``. 💎

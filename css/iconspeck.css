@@ -1,14 +1,14 @@
 /*!
- *  Iconspeck 1.1.6 feito por Moser José https://github.com/moser-jose/iconspeck 
+ *  Iconspeck 1.1.7 feito por Moser José https://github.com/moser-jose/iconspeck 
  */
 
  @font-face {
   font-family: 'iconspeck';
-  src:  url('../fonts/iconspeck.eot?nbacaj');
-  src:  url('../fonts/iconspeck.eot?nbacaj#iefix') format('embedded-opentype'),
-    url('../fonts/iconspeck.ttf?nbacaj') format('truetype'),
-    url('../fonts/iconspeck.woff?nbacaj') format('woff'),
-    url('../fonts/iconspeck.svg?nbacaj#iconspeck') format('svg');
+  src:  url('../fonts/iconspeck.eot?qtijac');
+  src:  url('../fonts/iconspeck.eot?qtijac#iefix') format('embedded-opentype'),
+    url('../fonts/iconspeck.ttf?qtijac') format('truetype'),
+    url('../fonts/iconspeck.woff?qtijac') format('woff'),
+    url('../fonts/iconspeck.svg?qtijac#iconspeck') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -63,13 +63,13 @@
   content: "\e909";
 }
 .speck-intellij:before {
-  content: "\e90a";
-}
-.speck-intellij-sp:before {
   content: "\e91c";
 }
 .speck-kotlin:before {
   content: "\e90c";
+}
+.speck-kotlin-sp:before {
+  content: "\e90a";
 }
 .speck-mocha:before {
   content: "\e90d";
@@ -81,9 +81,6 @@
   content: "\e90e";
 }
 .speck-pycharm:before {
-  content: "\e90f";
-}
-.speck-pycharm-sp:before {
   content: "\e91b";
 }
 .speck-raspberry-pi:before {
@@ -105,16 +102,16 @@
   content: "\e915";
 }
 .speck-webstorm:before {
-  content: "\e916";
-}
-.speck-webstorm-sp:before {
   content: "\e91d";
 }
 .speck-flutter:before {
   content: "\e917";
 }
-.speck-latex:before {
+.speck-latex-p:before {
   content: "\e918";
+}
+.speck-latex:before {
+  content: "\e90f";
 }
 .speck-latex-sp:before {
   content: "\e919";
@@ -544,6 +541,9 @@
 }
 .speck-figma:before {
   content: "\e978";
+}
+.speck-figma-sp:before {
+  content: "\e916";
 }
 .speck-finder:before {
   content: "\eabf";
@@ -1436,7 +1436,7 @@
 .speck-streamline:before {
   content: "\e605";
 }
-.speck-stripe-s:before {
+.speck-stripe:before {
   content: "\ea2e";
 }
 .speck-studiovinari:before {
@@ -1760,6 +1760,9 @@
 .speck-spring:before {
   content: "\e6a6";
 }
+.speck-adobe-xd:before {
+  content: "\e6d3";
+}
 .speck-adobe-xd-sp:before {
   content: "\e6ab";
 }
@@ -1790,8 +1793,11 @@
 .speck-android-auto:before {
   content: "\e6b5";
 }
-.speck-android-studio:before {
+.speck-androidstudio:before {
   content: "\e6b6";
+}
+.speck-androidstudio-sp:before {
+  content: "\e6d4";
 }
 .speck-jetbrains:before {
   content: "\e6b7";
@@ -1816,6 +1822,9 @@
 }
 .speck-nuxtjs:before {
   content: "\e6bf";
+}
+.speck-nuxtjs-sp:before {
+  content: "\e6d5";
 }
 .speck-nextjs:before {
   content: "\e6c0";
@@ -1875,5 +1884,164 @@
   content: "\e6d1";
 }
 .speck-buy-me-a-coffee:before {
+  content: "\e6d6";
+}
+.speck-iconspeck:before {
   content: "\e6d2";
+}
+.speck-elixir:before {
+  content: "\e6d7";
+}
+.speck-redux:before {
+  content: "\e6d8";
+}
+.speck-electron:before {
+  content: "\e6d9";
+}
+.speck-pug:before {
+  content: "\e6da";
+}
+.speck-terraform:before {
+  content: "\e6db";
+}
+.speck-unpkg:before {
+  content: "\e6dc";
+}
+.speck-xampp:before {
+  content: "\e6dd";
+}
+.speck-xiaomi:before {
+  content: "\e6de";
+}
+.speck-xamarin:before {
+  content: "\e6df";
+}
+.speck-vuetify:before {
+  content: "\e6e0";
+}
+.speck-vmware:before {
+  content: "\e6e1";
+}
+.speck-virtualbox:before {
+  content: "\e6e2";
+}
+.speck-udemy:before {
+  content: "\e6e3";
+}
+.speck-udacity:before {
+  content: "\e6e4";
+}
+.speck-sqlite:before {
+  content: "\e6e5";
+}
+.speck-revealdotjs:before {
+  content: "\e6e6";
+}
+.speck-reacttable:before {
+  content: "\e6e7";
+}
+.speck-reactrouter:before {
+  content: "\e6e8";
+}
+.speck-pwa:before {
+  content: "\e6e9";
+}
+.speck-protondb:before {
+  content: "\e6ea";
+}
+.speck-prisma:before {
+  content: "\e6eb";
+}
+.speck-prime:before {
+  content: "\e6ec";
+}
+.speck-powershell:before {
+  content: "\e6ed";
+}
+.speck-phpmyadmin:before {
+  content: "\e6ee";
+}
+.speck-packagist:before {
+  content: "\e6ef";
+}
+.speck-microsoftbing:before {
+  content: "\e6f0";
+}
+.speck-microsoftoffice:before {
+  content: "\e6f1";
+}
+.speck-jinja:before {
+  content: "\e6f2";
+}
+.speck-gitea:before {
+  content: "\e6f3";
+}
+.speck-editorconfig:before {
+  content: "\e6f4";
+}
+.speck-arduino:before {
+  content: "\e6f5";
+}
+.speck-amazonaws:before {
+  content: "\e6f6";
+}
+.speck-acer:before {
+  content: "\e6f7";
+}
+.speck-scratch:before {
+  content: "\e6f8";
+}
+.speck-postman:before {
+  content: "\e6f9";
+}
+.speck-oneplus:before {
+  content: "\e6fa";
+}
+.speck-oculus:before {
+  content: "\e6fb";
+}
+.speck-notepadplusplus:before {
+  content: "\e6fc";
+}
+.speck-nestjs:before {
+  content: "\e6fd";
+}
+.speck-laragon:before {
+  content: "\e6fe";
+}
+.speck-kofi:before {
+  content: "\e6ff";
+}
+.speck-json:before {
+  content: "\e700";
+}
+.speck-insomnia:before {
+  content: "\e701";
+}
+.speck-flask:before {
+  content: "\e702";
+}
+.speck-devexpress:before {
+  content: "\e703";
+}
+.speck-cytoscapedotjs:before {
+  content: "\e704";
+}
+.speck-crystal:before {
+  content: "\e705";
+}
+.speck-codeceptjs:before {
+  content: "\e706";
+}
+.speck-ckeditor4:before {
+  content: "\e707";
+}
+.speck-chartdotjs:before {
+  content: "\e708";
+}
+.speck-amazonpay:before {
+  content: "\e709";
+}
+.speck-alpinedotjs:before {
+  content: "\e70a";
 }
