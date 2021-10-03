@@ -2,12 +2,11 @@
 
 `Iconspeck` é um conjunto de mais de 600 ícones (empresas de tecnologias, programação e redes sociais) para os programadores e não só utilizarem em seus projectos, sites profissionais, etc. 😅
 
-![npm](https://img.shields.io/npm/v/iconspeck) ![npm](https://img.shields.io/npm/l/iconspeck) ![GitHub last commit](https://img.shields.io/github/last-commit/moser-jose/iconspeck) ![npm collaborators](https://img.shields.io/npm/collaborators/iconspeck) ![author](https://img.shields.io/badge/Author-Moser%20Jos%C3%A9-blueviolet)
+![npm](https://img.shields.io/npm/v/iconspeck) ![npm](https://img.shields.io/npm/l/iconspeck) ![GitHub last commit](https://img.shields.io/github/last-commit/moser-jose/iconspeck) ![npm collaborators](https://img.shields.io/npm/collaborators/iconspeck) ![author](https://img.shields.io/badge/Author-Moser%20Jos%C3%A9-blueviolet) [![](https://data.jsdelivr.com/v1/package/npm/iconspeck/badge)](https://www.jsdelivr.com/package/npm/iconspeck?version=1.1.7)
 
 ## Instalação e Configurações
 
 O `Iconspeck` pode ser encontrado 👉 [aqui](https://cdn.jsdelivr.net/npm/iconspeck@1.1.7/css/iconspeck.min.css) ou [aqui](https://unpkg.com/iconspeck@1.1.7/css/iconspeck.min.css). Pode ser utilizado apenas com uma linha de código, Exemplo 👉 `<link href='//cdn.jsdelivr.net/npm/iconspeck@1.1.7/css/iconspeck.min.css' rel='stylesheet'>`, ou `<link href='https://unpkg.com/iconspeck@1.1.7/css/iconspeck.min.css' rel='stylesheet'>` pode ser instalado também utilizando o `NPM` e o `YARN`.
-
 ### Instalação Usando o yarn
 
 `yarn add iconspeck`
@@ -15,6 +14,11 @@ O `Iconspeck` pode ser encontrado 👉 [aqui](https://cdn.jsdelivr.net/npm/icons
 ### Instalação Usando o NPM
 
 `npm install iconspeck`
+
+
+## Busca pelos ícones
+
+Podes procurar pelos ícones presentes no `Iconspeck` [aqui](https://iconspeck-dev.vercel.app/) 
 
 ## Configurações
 
