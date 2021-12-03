@@ -1,4 +1,4 @@
-# [Iconspeck](http://github.io/moser-jose/)
+# [Iconspeck](http://github.io/moser-jose/iconspeck)
 
 `Iconspeck` é um conjunto de mais de 600 ícones (empresas de tecnologias, programação e redes sociais) para os programadores e não só utilizarem em seus projectos, sites profissionais, etc. 😅
 
