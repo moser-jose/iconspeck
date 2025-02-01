@@ -4,7 +4,7 @@
 
 ![npm](https://img.shields.io/npm/v/iconspeck) ![npm](https://img.shields.io/npm/l/iconspeck) ![GitHub last commit](https://img.shields.io/github/last-commit/moser-jose/iconspeck) ![npm collaborators](https://img.shields.io/npm/collaborators/iconspeck) ![author](https://img.shields.io/badge/Author-Moser%20Jos%C3%A9-blueviolet) [![](https://data.jsdelivr.com/v1/package/npm/iconspeck/badge)](https://www.jsdelivr.com/package/npm/iconspeck?version=1.1.7)
 
-## Instalação e Configurações
+## Installation and Setup
 
 O `Iconspeck` can be found 👉 [aqui](https://cdn.jsdelivr.net/npm/iconspeck@1.1.7/css/iconspeck.min.css) or [aqui](https://unpkg.com/iconspeck@1.1.7/css/iconspeck.min.css). It can be used with just one line of code, for example 👉 `<link href='//cdn.jsdelivr.net/npm/iconspeck@1.1.7/css/iconspeck.min.css' rel='stylesheet'>`, ou `<link href='https://unpkg.com/iconspeck@1.1.7/css/iconspeck.min.css' rel='stylesheet'>` pode ser instalado can also be installed using `NPM` and `YARN`.
 
@@ -19,22 +19,9 @@ O `Iconspeck` can be found 👉 [aqui](https://cdn.jsdelivr.net/npm/iconspeck@1.
 
 ## Searching for Icons
 
-You can search for the icons available in  `Iconspeck` [aqui](https://iconspeck-dev.vercel.app/) 
+You can search for the icons available in  `Iconspeck` [aqui](https://iconspeck-dev.vercel.app/)
 
-## Configurações
-
-Download the repository;
-Copy the iconspeck.css or iconspeck.min.css file from the css folder to your project;
-Copy the fonts folder to your project;
-Make sure the fonts folder path is correct inside the iconspeck.css or iconspeck.min.css file;
-Use the link tag to include the iconspeck.css or iconspeck.min.css file in your HTML page;
-Use the classes as follows: <i class="iconspeck speck-yarn"></i> or <span class="iconspeck speck-webpack"></span>
-Always remember to use class="iconspeck speck-icon-name".
-
-
-
-
-
+## Setup
 
 1. Download the repository;
 2. Copy the ``iconspeck.css`` or ``iconspeck.min.css`` file from the css folder to your project;
